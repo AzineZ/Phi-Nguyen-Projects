@@ -1,0 +1,12 @@
+﻿  Ant.cpp
+C:\Users\nph69\source\repos\Ants-and-bugs-master\Ant.cpp(91,12): warning C4309: 'return': truncation of constant value
+  Bug.cpp
+C:\Users\nph69\source\repos\Ants-and-bugs-master\Bug.cpp(138,12): warning C4309: 'return': truncation of constant value
+  Organism.cpp
+  TwinBugs.cpp
+C:\Users\nph69\source\repos\Ants-and-bugs-master\TwinBugs.cpp(193,12): warning C4309: 'return': truncation of constant value
+  World.cpp
+  main.cpp
+C:\Users\nph69\source\repos\Ants-and-bugs-master\main.cpp(40,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Ants.vcxproj -> C:\Users\nph69\source\repos\Ants-and-bugs-master\Debug\Ants.exe
